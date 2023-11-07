@@ -1,5 +1,3 @@
-# Rajat Kumar Das
-
 👋 Hello! I'm Rajat, a frontend developer and tech enthusiast. Currently, I work as a Software Engineer Experience at [Macmerise](https://www.macmerise.com), where I play a pivotal role in shaping the frontend UI/UX for our projects. I specialize in creating seamless and user-friendly interfaces using [Next.js](https://nextjs.org) and [React](https://react.dev).
 
 ## About Me
