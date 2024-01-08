@@ -6,9 +6,7 @@ I have a passion for building products that people love. I am dedicated to deliv
 
 ## Blog Posts
 
-- [Promises, Async/Await, and Callbacks in JavaScript](https://example.com/blog/asynchronous-operations-promises-async-await-callbacks-javascript)
-- [2023 State of Databases for Serverless & Edge](https://example.com/blog/backend)
-- [The Story of Heroku](https://example.com/blog/heroku)
+- [Promises, Async/Await, and Callbacks in JavaScript](https://rajat.vercel.app/blog/asynchronous-operations-promises-async-await-callbacks-javascript)
 
 ## Technologies
 
