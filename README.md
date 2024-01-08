@@ -6,7 +6,9 @@ I have a passion for building products that people love. I am dedicated to deliv
 
 ## Blog Posts
 
-- [Promises, Async/Await, and Callbacks in JavaScript](https://rajat.vercel.app/blog/asynchronous-operations-promises-async-await-callbacks-javascript)
+- [Promises, Async/Await, and Callbacks in JavaScript](https://rajatdas.vercel.app/blog/asynchronous-operations-promises-async-await-callbacks-javascript)
+- [Demystifying Hexadecimal to RGB Conversion in JavaScript](https://rajatdas.vercel.app/blog/hex-to-rgb-converter-javascript)
+- [Responsive React Application with the useMediaQuery Hook](https://rajatdas.vercel.app/blog/use-media-query-hook-reactjs)
 
 ## Technologies
 
