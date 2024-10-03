@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Rajat
+# 👋 Hello! I'm Rajot
 
 I'm a frontend developer and tech enthusiast. Currently, I work as a Software Engineer Experience at [Macmerise](https://www.macmerise.com), where I play a pivotal role in shaping the frontend UI/UX for our projects. I specialize in creating seamless and user-friendly interfaces using [Next.js](https://nextjs.org) and [React](https://react.dev).
 
@@ -23,10 +23,14 @@ I have a passion for building products that people love. I am dedicated to deliv
 I keep my skills sharp by learning new things and staying up-to-date with the latest industry trends. Here are a few technologies I've been working with recently:
 
 - JavaScript (ES6+)
-- HTML/CSS
+- HTML/CSS/ TailwindCSS
 - React.js
 - Next.js
 - Git/GitHub
+
+## Backend Technologies
+
+Beyond frontend development, I have hands-on experience with backend technologies like Express.js, Flask, and Django. I can also brings solid knowledge of working with PostgreSQL, leveraging ORMs like Prisma and Drizzlekit to create robust and efficient database solutions.
 
 ## Get in Touch
 
